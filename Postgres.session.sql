@@ -1,0 +1,1 @@
+create table data_users (username varchar(25), password varchar(72));
