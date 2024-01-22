@@ -9,6 +9,6 @@ public class webCreateUser {
         createUserRepository userDataStorage = new createUserInfrastructor();
         caseCreateUser createUserData = new createUserApplication(userDataStorage);
 
-        createUserData.createDatauser("client", "12345");
+        createUserData.createDatauser("juan", "1234");
     }
 }
